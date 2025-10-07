@@ -1,16 +1,33 @@
-# trackmate
+<h1 align="center">🚗 TrackMate</h1>
 
-A new Flutter project.
+<p align="center">
+  <b>Smart Location Sharing & Tracking App built with Flutter</b>  
+  <br>
+  <br>
+  <a href="https://github.com/ji-jony/TrackMate-Flutter/stargazers">⭐ Star this repo</a> •
+  <a href="#-demo">🎬 Demo</a> •
+  <a href="#-installation">⚙️ Installation</a> •
+  <a href="#-screenshots">🖼️ Screenshots</a> •
+  <a href="#-license">🪪 License</a>
+</p>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌍 Overview
 
-A few resources to get you started if this is your first Flutter project:
+**TrackMate** is a Flutter-based smart location-sharing and tracking application that helps users share and follow real-time locations — even without direct GPS access.  
+It’s designed for simplicity, privacy, and smooth performance. Perfect for tracking vehicles, family, or friends.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 📍 **Live Location Sharing** — Share your movement in real time  
+- 🛰️ **Track Others Securely** — Private tracking with permission control  
+- 🔐 **Privacy First** — Data is shared only with trusted users  
+- 🧭 **Offline Tracking Support** — Works even without GPS  
+- 🎨 **Beautiful UI** — Clean, modern Flutter interface  
+- ⚙️ **Easy Setup** — Just install and start tracking  
+
+---
+
