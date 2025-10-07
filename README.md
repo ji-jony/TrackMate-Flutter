@@ -31,3 +31,9 @@ It’s designed for simplicity, privacy, and smooth performance. Perfect for tra
 
 ---
 
+## 🖼️ Screenshots
+
+
+| <img src="screenshots/home.png" width="250"/> | <img src="screenshots/route_share.png" width="250"/> | <img src="screenshots/route_share2.png" width="250"/> | <img src="screenshots/private_share.png" width="250"/> | <img src="screenshots/map_route.png" width="250"/> | <img src="screenshots/location_view.png" width="250"/> | <img src="screenshots/map_view.png" width="250"/> | <img src="screenshots/map_details.png" width="250"/> |
+
+
